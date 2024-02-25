@@ -1,6 +1,6 @@
 # TBAG
 "The Binary Arithmetic Game" for Wemos D1
-(15 Dec 2020)
+**(15 Dec 2020)**
 
 1st year university Arduino project (CMP101) utilising a Wemos D1 development board & GPIO-connected OLED screen, 7-segment display (expansion board with LEDs and buttons), servo motor, and potentiometer.
 
